@@ -1,7 +1,7 @@
 # Hello! 👋
-
-![hello jake](https://media.tenor.com/Fj6mMxNWn8MAAAAC/jake-enhypen-enhypen-jake.gif)
-
+<div align="center">
+<img src = "https://media.tenor.com/Fj6mMxNWn8MAAAAC/jake-enhypen-enhypen-jake.gif" alt = "hello ni jake" width = "200"/> 
+</div>
 ## About Me
 My name is Genelyn. I'm a student programmer with a love for innovating solutions to problems.
 
