@@ -4,7 +4,7 @@
 </div>
 
 ## About Me
-My name is Genelyn. I'm a student programmer with a love for innovating solutions to problems.
+My name is Genelyn. I'm a student programmer enrolled in FEU Institue of Technology.
 
 ## Skills
 - *Languages:* Python, JavaScript, Java, C++
@@ -25,4 +25,4 @@ My name is Genelyn. I'm a student programmer with a love for innovating solution
   </a>
 </div>
 
-Feel free to hit me up if you want to collab or chat about anything related to programming and life in general! ❤️
+Feel free to hit me up if you want to collab or chat about anything related to programming and/or life in general! ❤️
